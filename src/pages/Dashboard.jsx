@@ -49,7 +49,7 @@ const Dashboard = () => {
     goals.length > 0 ? (
       orderedGoals.map((goal) => {
         return (
-          <Col key={goal._id} className='col-sm-12 col-md-4 col-xl-3 py-1'>
+          <Col key={goal._id} className='col-12 col-sm-12 col-md-4 col-xl-3 py-1'>
                   <Card>
                   <Card.Body>
                     <div style={{float: 'right' }}>
