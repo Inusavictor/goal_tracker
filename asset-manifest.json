@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/goal_tracker/static/css/main.e1c35682.css",
-    "main.js": "/goal_tracker/static/js/main.b0e0ba21.js",
+    "main.js": "/goal_tracker/static/js/main.c7f784b2.js",
     "static/js/787.cda612ba.chunk.js": "/goal_tracker/static/js/787.cda612ba.chunk.js",
     "index.html": "/goal_tracker/index.html",
     "main.e1c35682.css.map": "/goal_tracker/static/css/main.e1c35682.css.map",
-    "main.b0e0ba21.js.map": "/goal_tracker/static/js/main.b0e0ba21.js.map",
+    "main.c7f784b2.js.map": "/goal_tracker/static/js/main.c7f784b2.js.map",
     "787.cda612ba.chunk.js.map": "/goal_tracker/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1c35682.css",
-    "static/js/main.b0e0ba21.js"
+    "static/js/main.c7f784b2.js"
   ]
 }
