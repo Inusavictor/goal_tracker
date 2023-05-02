@@ -120,7 +120,7 @@ const AddGoalForm = () => {
         <Form.Control as="textarea" rows={3} placeholder='Goal Description' name='description' value={description} onChange={onChange} />
       </Form.Group>
       <Form.Group className="d-grid gap-2">
-      <Button variant="primary" onClick={onSubmit}>
+      <Button variant="primary" onClick={onSubmit} className={!text ? 'disabled' : ''}>
         Submit
       </Button>
       </Form.Group>
